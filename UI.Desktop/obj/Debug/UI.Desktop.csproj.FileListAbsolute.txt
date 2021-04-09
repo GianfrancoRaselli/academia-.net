@@ -1,0 +1,471 @@
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Planes.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.PlanDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Menu.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\Lab01.formLogin.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\EnvDTE80.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\stdole.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.exe.config
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.ReporteMaterias.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.ReporteAlumnos.resources
+C:\Users\Usuario\Source\Repos\TP22\UI.Desktop\obj\Debug\UI.Desktop.ReporteComisiones.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\EnvDTE.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\EnvDTE80.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\stdole.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Microsoft.MSXML.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.exe.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\Lab01.formLogin.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Menu.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.PlanDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.Planes.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.ReporteAlumnos.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.ReporteComisiones.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\UI.Desktop.ReporteMaterias.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\RdlCompile.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\obj\Debug\RdlCompile.compiled
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\EnvDTE.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\EnvDTE80.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\stdole.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe.config
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\Lab01.formLogin.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Menu.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.PlanDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Planes.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.ReporteAlumnos.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.ReporteComisiones.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.ReporteMaterias.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Business.Entities.dll.config
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Business.Logic.dll.config
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\bin\Debug\Data.Database.dll.config
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\RdlCompile.cache
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\RdlCompile.compiled
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Business.Entities.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Business.Logic.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\UI.Desktop\bin\Debug\Data.Database.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\EnvDTE.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\EnvDTE80.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\stdole.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Microsoft.MSXML.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Business.Entities.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Business.Logic.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\Data.Database.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.exe.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\Lab01.formLogin.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Menu.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.PlanDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Planes.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.ReporteAlumnos.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.ReporteComisiones.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.ReporteMaterias.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\RdlCompile.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\RdlCompile.compiled
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.MateriasCorrelativas.resources
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\UI.Desktop\obj\Debug\UI.Desktop.MateriaCorrelativaDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.MateriaCorrelativaDesktop.resources
+C:\Users\USUARIO\Source\Repos\TP2\UI.Desktop\obj\Debug\UI.Desktop.MateriasCorrelativas.resources

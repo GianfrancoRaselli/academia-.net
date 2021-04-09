@@ -1,0 +1,179 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="UI.Web.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta charset="utf-8">
+	<meta name="author" content="">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maxium-scale=1.0, minimum-scale=1.0">
+    <link href="style/bootstrap.min.css" rel="stylesheet" />
+	<asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+	<script src="https://kit.fontawesome.com/5520773c7b.js" crossorigin="anonymous"></script>
+	<title>Página Maestra</title>
+	<style>
+		#navbar {
+			position: fixed;
+			z-index: 100;
+			width: 100%;
+			top: 0;
+		}
+
+		@media (min-width: 991.5px) {
+			.user {
+				margin-left: auto;
+			}
+		}
+
+		@media (max-width: 991.5px) {
+			.user {
+				float: left;
+			}
+		}
+
+		#content {
+			margin-top: 100px;
+		}
+
+		body{		
+			background-color: gainsboro;
+		}
+	</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="navbar">
+				<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbarAdministrativo" runat="server" visible="false">
+                    <a href="Home.aspx"><img src="img/UTN_logo.jpg" width="70" height="70"></a>&nbsp;&nbsp;
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarNavDropdown">
+						<ul class="navbar-nav">
+							<li class="nav-item active">
+								<a id="lblHomeAdministrativo" runat="server" class="nav-link" href="Home.aspx"><i class="fas fa-home"></i>&nbsp;Inicio <span class="sr-only">(current)</span></a>
+							</li>
+							<li class="nav-item dropdown">
+								<a id="lblABMAdministrativo" runat="server" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Altas, Bajas y Modificaciones</a>
+		      					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+									<a id="lblABMPersonasAdministrativo" runat="server" class="dropdown-item" href="Personas.aspx">Personas</a>
+									<a id="lblABMUsuariosAdministrativo" runat="server" class="dropdown-item" href="Usuarios.aspx">Usuarios</a>
+									<a id="lblABMComisionesAdministrativo" runat="server" class="dropdown-item" href="Comisiones.aspx">Comisiones</a>
+
+								</div>
+							</li>
+							<li class="nav-item dropdown">
+								<a id="lblReportesAdministrativo" runat="server" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Reportes</a>
+		      					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+									<a id="lblReporteAlumnosAdministrativo" runat="server" class="dropdown-item" href="ReporteAlumnos.aspx">Reporte de Alumnos</a>
+									<a id="lblReporteMateriasAdministrativo" runat="server" class="dropdown-item" href="ReporteMaterias.aspx">Reporte de Materias</a>
+									<a id="lblReporteComisionesAdministrativo" runat="server" class="dropdown-item" href="ReporteComisiones.aspx">Reporte de Comisiones</a>
+								</div>
+							</li>
+						</ul>
+						<ul class="navbar-nav user">
+			  				<li class="nav-item dropdown" style="margin-left: auto">
+								<a id="lblUsuarioAdministrativo" runat="server" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<i class="fas fa-user"></i>&nbsp;<asp:Label ID="lblNombreUsuarioAdministrativo" runat="server" Text="User"></asp:Label>
+				    			</a>
+				       			<div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdownMenuLink">
+				        			<a id="lblPerfilAdministrativo" runat="server" class="dropdown-item" href="Perfil.aspx"><i class="far fa-id-card"></i>&nbsp;Perfil</a>
+									<asp:LinkButton ID="btnCerrarSesion" runat="server" style="color: red;" CausesValidation="False" class="dropdown-item" OnClick="btnCerrarSesion_Click"><i class="fas fa-sign-out-alt"></i>&nbsp;Cerrar sesión</asp:LinkButton>
+				   				</div>
+							</li>
+			  			</ul>
+					</div>
+				</nav>
+
+				<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbarDocente" runat="server" visible="false">
+					<a href="Home.aspx"><img src="img/UTN_logo.jpg" width="70" height="70"/></a>&nbsp;&nbsp;
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarNavDropdown">
+						<ul class="navbar-nav">
+							<li class="nav-item active">
+								<a id="lblHomeDocente" runat="server" class="nav-link" href="Home.aspx"><i class="fas fa-home"></i>&nbsp;Inicio <span class="sr-only">(current)</span></a>
+							</li>
+							<li class="nav-item dropdown">
+								<a id="lblReportesDocente" runat="server" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Reportes</a>
+		      					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+									<a id="lblReporteAlumnosDocente" runat="server" class="dropdown-item" href="ReporteAlumnos.aspx">Reporte de Alumnos</a>
+									<a id="lblReporteMateriasDocente" runat="server" class="dropdown-item" href="ReporteMaterias.aspx">Reporte de Materias</a>
+									<a id="lblReporteComisionesDocente" runat="server" class="dropdown-item" href="ReporteComisiones.aspx">Reporte de Comisiones</a>
+								</div>
+							</li>
+							<li>
+								<a id="lblRegistroNotasDocente" runat="server" class="nav-link" href="RegistroNotas.aspx">Registrar Notas <span class="sr-only">(current)</span></a>
+							</li>
+						</ul>
+						<ul class="navbar-nav user">
+			  				<li class="nav-item dropdown">
+								<a id="lblUsuarioDocente" runat="server" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<i class="fas fa-user"></i>&nbsp;<asp:Label ID="lblNombreUsuarioDocente" runat="server" Text="User"></asp:Label>
+				    			</a>
+				       			<div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdownMenuLink">
+				        			<a id="lblPerfilDocente" runat="server" class="dropdown-item" href="Perfil.aspx"><i class="far fa-id-card"></i>&nbsp;Perfil</a>
+									<asp:LinkButton ID="LinkButton1" runat="server" style="color: red;" CausesValidation="False" class="dropdown-item" OnClick="btnCerrarSesion_Click"><i class="fas fa-sign-out-alt"></i>&nbsp;Cerrar sesión</asp:LinkButton>
+				   				</div>
+							</li>
+			  			</ul>
+					</div>
+				</nav>
+
+				<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbarAlumno" runat="server" visible="false">
+					<a href="Home.aspx"><img src="img/UTN_logo.jpg" width="70" height="70"/></a>&nbsp;&nbsp;
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarNavDropdown">
+						<ul class="navbar-nav">
+							<li class="nav-item active">
+								<a id="lblHomeAlumno" runat="server" class="nav-link" href="Home.aspx"><i class="fas fa-home"></i>&nbsp;Inicio <span class="sr-only">(current)</span></a>
+							</li>
+							<li class="nav-item dropdown">
+								<a id="lblReportesAlumno" runat="server" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Reportes</a>
+		      					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+									<a id="lblReporteMateriasAlumno" runat="server" class="dropdown-item" href="ReporteMaterias.aspx">Reporte de Materias</a>
+									<a id="lblReporteComisionesAlumno" runat="server" class="dropdown-item" href="ReporteComisiones.aspx">Reporte de Comisiones</a>
+								</div>
+							</li>
+							<li>
+								<a id="lblInscripcionCursosAlumno" runat="server" class="nav-link" href="InscripcionCursos.aspx">Inscripciones a Cursos <span class="sr-only">(current)</span></a>
+							</li>
+						</ul>
+						<ul class="navbar-nav user">
+			  				<li class="nav-item dropdown">
+								<a id="lblUsuarioAlumno" runat="server" class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<i class="fas fa-user"></i>&nbsp;<asp:Label ID="lblNombreUsuarioAlumno" runat="server" Text="User"></asp:Label>
+				    			</a>
+				       			<div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdownMenuLink">
+				        			<a id="lblPerfilAlumno" runat="server" class="dropdown-item" href="Perfil.aspx"><i class="far fa-id-card"></i>&nbsp;Perfil</a>
+									<asp:LinkButton ID="LinkButton2" runat="server" style="color: red;" CausesValidation="False" class="dropdown-item" OnClick="btnCerrarSesion_Click"><i class="fas fa-sign-out-alt"></i>&nbsp;Cerrar sesión</asp:LinkButton>
+								</div>
+							</li>
+			  			</ul>
+					</div>
+				</nav>
+            </div>
+
+            <div id="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <div id="footer">
+            </div>
+        </div>
+    </form>
+
+	<script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
+	<script type="text/javascript" src="js/popper.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+</body>
+</html>

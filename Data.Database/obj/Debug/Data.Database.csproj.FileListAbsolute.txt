@@ -1,0 +1,141 @@
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab03\TP2\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP\Lab04\TP2\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Usuario\Desktop\IDE\TP2\Lab05\TP2\Data.Database\obj\Debug\Data.Database.pdb
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\bin\Debug\Data.Database.dll
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\bin\Debug\Data.Database.pdb
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\bin\Debug\Business.Entities.dll
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\obj\Debug\Data.Database.dll
+D:\PABLO ESTUDIO\Facultad 2020\.NET\Gianfranco\TP2\Data.Database\obj\Debug\Data.Database.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Data.Database.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Data.Database.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Business.Entities.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\obj\Debug\Data.Database.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Usuario\Source\Repos\TP22\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Data.Database.dll.config
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\EnvDTE.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\EnvDTE80.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\stdole.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USUARIO\Source\Repos\TP2\Data.Database\bin\Debug\Business.Entities.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Data.Database.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\EnvDTE.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\EnvDTE80.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\stdole.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Microsoft.MSXML.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 2\Data.Database\bin\Debug\Business.Entities.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Data.Database.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Data.Database.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Data.Database.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Business.Entities.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\EnvDTE.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\EnvDTE80.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\stdole.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Microsoft.MSXML.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\bin\Debug\Business.Entities.dll.config
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\obj\Debug\Data.Database.dll
+C:\Net-Git\UTNFRRO\Trabajo Practico 3\Data.Database\obj\Debug\Data.Database.pdb
